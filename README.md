@@ -416,6 +416,25 @@ Manuelle Tests wurden erfolgreich durchgeführt, doch eine Erweiterung um automa
 Die zeitliche Verlängerung hat zwar geholfen, dennoch hätten wir von Anfang an realistischere Zeitpläne erstellen sollen.
  
 ## 10. Reflexion von Samuel Schreiber
+
+### 10.2 Positive Aspekte
+
+- Teamarbeit
+Wir haben uns immer gut abgesprochen und konnten dadurch doppelte Arbeit vermeiden.
+
+
+### 10.2 Herausfordereungen und Verbesserungsvorschläge
+
+-Probleme mit dem Repository
+Kann ich mir nur Noe anschliessen wir hätten mehr Backups sollen machen um uns vor solchigen Vorfällen absichern zu können.
+
+-Krankheit
+Ein Porblem war ausserdem das ich Krankheitsbedingt lange Zeit ausgefallen bin und so mein Teamkollege viel alleine erledigen musste.
+
+-Einstieg mit AWS
+Der anfang mit AWS Labs war für uns sehr Herausfordend und Neu da wir den Umgang mit solchen Programmen 
+nicht gewohnt waren und mit der UI anfangs nicht Zurechtkamen.
+
  
 ## 11. Erfüllung der Kriterien
 Die folgenden Punkte beschreiben, wie die Anforderungen aus den Bewertungskriterien erfüllt wurden:
