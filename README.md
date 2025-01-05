@@ -444,7 +444,7 @@ Ich finde wir haben viel gelernt und uns ein VErständniss aufbauen können wie 
 ### 10.2 Herausfordereungen und Verbesserungsvorschläge
 
 -Probleme mit dem Repository
-Kann ich mir nur Noe anschliessen wir hätten mehr Backups sollen machen um uns vor solchigen Vorfällen absichern zu können.
+Kann ich mir nur Noe anschliessen wir hätten mehr Backups erstellen sollen, um uns vor solchigen Vorfällen absichern zu können.
 
 -Krankheit
 Ein Porblem war ausserdem das ich Krankheitsbedingt lange Zeit ausgefallen bin und so mein Teamkollege viel alleine erledigen musste.
@@ -453,28 +453,6 @@ Ein Porblem war ausserdem das ich Krankheitsbedingt lange Zeit ausgefallen bin u
 Der anfang mit AWS Labs war für uns sehr Herausfordend und Neu da wir den Umgang mit solchen Programmen 
 nicht gewohnt waren und mit der UI anfangs nicht Zurechtkamen.
 
- 
-## 11. Erfüllung der Kriterien
-Die folgenden Punkte beschreiben, wie die Anforderungen aus den Bewertungskriterien erfüllt wurden:
- 
-1.  Inbetriebnahme
-o   Der Service kann durch das Init.sh-Skript vollständig in Betrieb genommen werden.
- 
-2.  Versionskontrolle
-o   Alle relevanten Dateien sind in einem Git-Repository versioniert abgelegt.
- 
-3.  Konvertierungsfunktionalität
-o   Die Funktionalität erfüllt die Anforderungen: CSV-Dateien werden zuverlässig in JSON konvertiert.
- 
-4.  Tests
-o   Alle Tests sind dokumentiert und die Ergebnisse sind nachvollziehbar protokolliert.
- 
-5.  Automatisierungsgrad
-o   Die Installation und die Tests sind durch Skripte vollständig automatisiert.
- 
-6.  Dokumentation
-o   Die Dokumentation ist umfassend, gut gegliedert und enthält alle relevanten Informationen.
- 
 ## 12. Fazit
 Das Projekt war ein Erfolg und hat es uns ermöglicht, die im Unterricht erlernten Cloud-Technologien praktisch anzuwenden. Die Kombination von Theorie und Praxis hat nicht nur unsere technischen Fähigkeiten verbessert, sondern uns auch gezeigt, wie wichtig Planung und Teamarbeit für ein erfolgreiches Projekt sind.
 Für zukünftige Projekte werden wir uns darauf konzentrieren, unsere Zeit besser zu managen, die Automatisierung weiter auszubauen und uns vorab intensiver in die verwendeten Technologien einzuarbeiten.
