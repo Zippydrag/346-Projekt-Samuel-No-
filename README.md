@@ -109,23 +109,7 @@ chmod +x scripts/Init.sh scripts/Test.sh
  
 Die Projektstruktur ist klar gegliedert und ermöglicht eine einfache Navigation. Die wichtigsten Ordner und Dateien sind wie folgt:
 ### 5.1 Ordnerstruktur
-python
-Code kopieren
-📂 M346-Projekt-CsvToJson
-├── 📂 docs
-│   └── 📄 test.png            # Screenshots für die Dokumentation
-├── 📂 scripts
-│   ├── Init.sh               # Initialisierungsskript für die Installation
-│   └── Test.sh               # Testskript zur Validierung der Funktionalität
-├── 📂 src
-│   ├── 📂 config
-│   │   └── aws-lambda-tools-defaults.json  # Konfigurationsdatei für AWS Lambda
-│   ├── Function.cs           # Hauptlogik der Lambda-Funktion
-│   ├── M346-Projekt-CsvToJson.csproj  # C# Projektdatei
-│   └── 📂 bin/obj            # Kompilierte Dateien und Builds
-├── .gitignore                # Ausschlussregeln für Git
-├── README.md                 # Hauptdokumentation des Projekts
-└── M346-Projekt-CsvToJson.sln # Visual Studio Solution
+![alt text](image.png)
 ### 5.2 Wichtige Dateien und ihre Funktionen
 •   Function.cs: Enthält die gesamte Logik zur Konvertierung von CSV zu JSON. (Beispielcode folgt im nächsten Abschnitt.)
 •   Init.sh: Automatisiert die Erstellung von AWS-Komponenten und die Bereitstellung der Lambda-Funktion.
